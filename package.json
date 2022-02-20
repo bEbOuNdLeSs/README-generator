@@ -1,0 +1,24 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "The user can use the index.js to generate a readme file for their projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bEbOuNdLeSs/README-generator.git"
+  },
+  "author": "bEbOuNdLeSs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bEbOuNdLeSs/README-generator/issues"
+  },
+  "homepage": "https://github.com/bEbOuNdLeSs/README-generator#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "inquirer": "^8.2.0",
+    "util": "^0.12.4"
+  }
+}
