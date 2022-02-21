@@ -13,3 +13,8 @@ The user will need to put these two commands into their terminal first to make u
 ## Links
 * Github: https://github.com/bEbOuNdLeSs
 
+## Demo
+
+![Demo1](/demo/demo1.mp4).
+![Demo2](/demo/demo2.mp4).
+![Demo3](/demo/demo3.png).
