@@ -16,10 +16,7 @@ The user will need to put these two commands into their terminal first to make u
 
 ## Demo
 
-https://user-images.githubusercontent.com/93752351/155266716-ee75c8f2-9686-488e-ad93-288bf875bc0b.mp4
-
-https://user-images.githubusercontent.com/93752351/155266738-1580e0fe-ba41-4343-be8d-417e031094fe.mp4
-
+https://user-images.githubusercontent.com/93752351/155641618-0da0d757-9146-4171-a26f-ee754d2f9c56.mp4
 
 Finished product.
 ![Demo3](/demo/demo3.png).
